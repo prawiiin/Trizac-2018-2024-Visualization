@@ -90,6 +90,5 @@ sales_forecasting_arima.ipynb: ARIMA model training and forecasting.
 Visualizations:
 
 Run the scripts to generate plots for historical trends and future forecasts.
-Power BI:
 
-Open the dashboard files in Power BI for additional insights.
+Power BI: Open the dashboard files in Power BI for additional insights.
