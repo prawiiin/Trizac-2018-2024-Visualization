@@ -73,7 +73,7 @@ Using the ARIMA model, this visualization predicts sales for the next year, offe
 ### Installing Dependencies
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yTrizac-2018-2024-Visualization
+   git clone https://github.com/Trizac-2018-2024-Visualization
 Navigate into the project directory:
 bash
 Copy code
